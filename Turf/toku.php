@@ -24,7 +24,7 @@ if (!isset($_SESSION["tusername"])) {
                <div class="home-line1"></div>
                <div class="home-line2"></div>
                <div class="home-line3"></div>
-            </div>
+            </div> 
          </div>
 
 
